@@ -12,6 +12,8 @@
 		8775CFAE1DE35043002EE653 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8775CFAC1DE35043002EE653 /* Main.storyboard */; };
 		8775CFB01DE35043002EE653 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8775CFAF1DE35043002EE653 /* Assets.xcassets */; };
 		8775CFB31DE35043002EE653 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8775CFB11DE35043002EE653 /* LaunchScreen.storyboard */; };
+		87ADA5F31DE3D2CD00E022BA /* 123ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87ADA5F21DE3D2CD00E022BA /* 123ViewController.swift */; };
+		87ADA5F51DE47DF700E022BA /* 18559718275_ecdfc5872f_k.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 87ADA5F41DE47DF700E022BA /* 18559718275_ecdfc5872f_k.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		8775CFAF1DE35043002EE653 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8775CFB21DE35043002EE653 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8775CFB41DE35043002EE653 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		87ADA5F21DE3D2CD00E022BA /* 123ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = 123ViewController.swift; sourceTree = "<group>"; };
+		87ADA5F41DE47DF700E022BA /* 18559718275_ecdfc5872f_k.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 18559718275_ecdfc5872f_k.jpg; path = ../../../18559718275_ecdfc5872f_k.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,9 +61,11 @@
 				8775CFA81DE35043002EE653 /* AppDelegate.swift */,
 				8775CFAA1DE35043002EE653 /* ViewController.swift */,
 				8775CFAC1DE35043002EE653 /* Main.storyboard */,
+				87ADA5F41DE47DF700E022BA /* 18559718275_ecdfc5872f_k.jpg */,
 				8775CFAF1DE35043002EE653 /* Assets.xcassets */,
 				8775CFB11DE35043002EE653 /* LaunchScreen.storyboard */,
 				8775CFB41DE35043002EE653 /* Info.plist */,
+				87ADA5F21DE3D2CD00E022BA /* 123ViewController.swift */,
 			);
 			path = exchange2;
 			sourceTree = "<group>";
@@ -127,6 +133,7 @@
 				8775CFB31DE35043002EE653 /* LaunchScreen.storyboard in Resources */,
 				8775CFB01DE35043002EE653 /* Assets.xcassets in Resources */,
 				8775CFAE1DE35043002EE653 /* Main.storyboard in Resources */,
+				87ADA5F51DE47DF700E022BA /* 18559718275_ecdfc5872f_k.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8775CFAB1DE35043002EE653 /* ViewController.swift in Sources */,
+				87ADA5F31DE3D2CD00E022BA /* 123ViewController.swift in Sources */,
 				8775CFA91DE35043002EE653 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -300,6 +308,7 @@
 				8775CFB91DE35043002EE653 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
